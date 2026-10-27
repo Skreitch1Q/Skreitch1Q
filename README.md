@@ -109,22 +109,6 @@
 - 🚪 Постучать в дверь - только если принёс пельмени и пиво.<div align="center">
 - 📱 Telegram - отказано.
 
-## 📊 Статистика
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Skreitch1Q&show_icons=true&hide_title=true&theme=dark&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skreitch1Q&layout=compact&theme=dark&bg_color=0D1117&title_color=F7DF1E&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
-</p>
-
-<p align="center"><i>GitHub считает, что я пишу на Python. GitHub много чего считает.</i></p>
-
-## 📬 Связаться
-
-- 🐙 [GitHub](https://github.com/Skreitch1Q) — вы уже здесь.
-- 🛠️ [Issues](https://github.com/Skreitch1Q/Skreitch1Q/issues) — отвечу быстрее, чем соберу C++ проект.
-- 🚪 Постучать в дверь — только если принёс пельмени.
-- 📱 Telegram — нет, я социофоб.
-
 > «Работает — не трогай. Не работает - тоже не трогай.»
 >
 > - я, после третьего часа дебага
