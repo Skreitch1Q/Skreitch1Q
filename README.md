@@ -119,7 +119,7 @@
 ```bash
 sudo pacman -Syu
 sudo pacman -S luck talant intelligence
-# E: Unable to locate package talent talant intelligence
+# E: Unable to locate package luck talant intelligence
 ```
 
 </details>
